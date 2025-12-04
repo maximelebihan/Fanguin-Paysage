@@ -15,10 +15,10 @@ import FAQ from './components/FAQ';
 
 function App() {
   return (
-    <div className="min-h-screen bg-fanguin-cream font-sans">
+    <div className="min-h-screen bg-fanguin-cream font-sans overflow-x-hidden">
       <Header />
       <main>
-        {/* Hero is typically static or has its own intro animation */}
+        {/* Hero est statique, pas besoin de reveal */}
         <Hero />
         
         <RevealOnScroll>

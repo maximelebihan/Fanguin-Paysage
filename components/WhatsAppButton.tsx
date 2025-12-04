@@ -1,9 +1,7 @@
 import React from 'react';
-import { Phone } from 'lucide-react';
 
 const WhatsAppButton: React.FC = () => {
   // Numéro au format international pour WhatsApp: 33147411146
-  // Utilisation de l'API WhatsApp pour ouvrir l'app ou le web
   const whatsappUrl = "https://wa.me/33147411146";
 
   return (
