@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
         </h1>
         {/* L'accroche demandée */}
         <p className="text-xl md:text-3xl text-fanguin-light font-light mb-8 italic drop-shadow-md">
-          "L'art de cultiver votre bien-être, de la racine à la cime."
+          "Le jardin est le prolongement naturel de votre maison."
         </p>
       </div>
 
